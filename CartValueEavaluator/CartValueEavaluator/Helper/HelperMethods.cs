@@ -23,7 +23,7 @@ namespace CartValueEavaluator.Helper
       Dictionary<char, int> unitItems = new Dictionary<char, int>();
       string addmore = "y";
 
-      Console.WriteLine("Enter Units from the aforementioned Sku item list and add their respective quantities(more than 0):");
+      Console.WriteLine("Enter Units from the aforementioned Sku item list and add their respective quantities(between 0 to 1000):");
       while (addmore.ToLower().Equals("y"))
       {
         char skuId = 'x'; int quantity = 0;
@@ -56,14 +56,14 @@ namespace CartValueEavaluator.Helper
           Console.WriteLine("Entry not found!");
           break;
         }
-      readQuantityAgain:
+        readQuantityAgain:
         if (quantityReadAttempt < 3)
         {
           Console.Write("Quantity: ");
           try
           {
             quantity = Convert.ToInt32(Console.ReadLine());
-            if (quantity < 1)
+            if (quantity < 1 || quantity > 1000)
             {
               throw new InvalidOperationException();
             }
