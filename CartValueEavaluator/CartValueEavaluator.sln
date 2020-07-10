@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29905.134
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CartValueEavaluator", "CartValueEavaluator\CartValueEavaluator.csproj", "{CF55412F-49A2-4FFD-974C-A9AEE8AA2E5C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnitTest.CartValueEvaluator", "UnitTest.CartValueEvaluator\UnitTest.CartValueEvaluator.csproj", "{5E271AA0-7806-49A1-98C4-5ECA39E8112C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CF55412F-49A2-4FFD-974C-A9AEE8AA2E5C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CF55412F-49A2-4FFD-974C-A9AEE8AA2E5C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CF55412F-49A2-4FFD-974C-A9AEE8AA2E5C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CF55412F-49A2-4FFD-974C-A9AEE8AA2E5C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5E271AA0-7806-49A1-98C4-5ECA39E8112C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5E271AA0-7806-49A1-98C4-5ECA39E8112C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5E271AA0-7806-49A1-98C4-5ECA39E8112C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5E271AA0-7806-49A1-98C4-5ECA39E8112C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B65C7E07-5921-4100-9946-43F41AAF75EC}
+	EndGlobalSection
+EndGlobal

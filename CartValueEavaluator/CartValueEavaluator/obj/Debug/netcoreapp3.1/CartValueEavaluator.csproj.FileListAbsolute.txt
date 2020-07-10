@@ -1,0 +1,11 @@
+D:\Learning\Apps\Promo\CartValueEavaluator\CartValueEavaluator\bin\Debug\netcoreapp3.1\CartValueEavaluator.exe
+D:\Learning\Apps\Promo\CartValueEavaluator\CartValueEavaluator\bin\Debug\netcoreapp3.1\CartValueEavaluator.deps.json
+D:\Learning\Apps\Promo\CartValueEavaluator\CartValueEavaluator\bin\Debug\netcoreapp3.1\CartValueEavaluator.runtimeconfig.json
+D:\Learning\Apps\Promo\CartValueEavaluator\CartValueEavaluator\bin\Debug\netcoreapp3.1\CartValueEavaluator.runtimeconfig.dev.json
+D:\Learning\Apps\Promo\CartValueEavaluator\CartValueEavaluator\bin\Debug\netcoreapp3.1\CartValueEavaluator.dll
+D:\Learning\Apps\Promo\CartValueEavaluator\CartValueEavaluator\bin\Debug\netcoreapp3.1\CartValueEavaluator.pdb
+D:\Learning\Apps\Promo\CartValueEavaluator\CartValueEavaluator\obj\Debug\netcoreapp3.1\CartValueEavaluator.csprojAssemblyReference.cache
+D:\Learning\Apps\Promo\CartValueEavaluator\CartValueEavaluator\obj\Debug\netcoreapp3.1\CartValueEavaluator.AssemblyInfoInputs.cache
+D:\Learning\Apps\Promo\CartValueEavaluator\CartValueEavaluator\obj\Debug\netcoreapp3.1\CartValueEavaluator.AssemblyInfo.cs
+D:\Learning\Apps\Promo\CartValueEavaluator\CartValueEavaluator\obj\Debug\netcoreapp3.1\CartValueEavaluator.dll
+D:\Learning\Apps\Promo\CartValueEavaluator\CartValueEavaluator\obj\Debug\netcoreapp3.1\CartValueEavaluator.pdb
