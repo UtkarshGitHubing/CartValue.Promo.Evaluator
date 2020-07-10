@@ -93,11 +93,10 @@ namespace CartValueEavaluator
               Console.WriteLine($"No such promotion could be applied your default cart value is: {defaultPromotion(skuItemsList)}");
             }
             Console.ReadKey();
-
           }
           else
           {
-            Console.WriteLine("Please Select item in valid quantity");
+            Console.WriteLine("Invalid inputs. Lets' try again..");
             goto start;
           }
           Console.WriteLine("Try Again (y/n)?");

@@ -1,4 +1,5 @@
-﻿using CartValueEavaluator.Models;
+﻿using System.Runtime.CompilerServices;
+using CartValueEavaluator.Models;
 
 namespace CartValueEavaluator.Helper
 {
@@ -52,6 +53,7 @@ namespace CartValueEavaluator.Helper
         }
         else
         {
+          Console.WriteLine("Entry not found!");
           break;
         }
       readQuantityAgain:
@@ -61,6 +63,10 @@ namespace CartValueEavaluator.Helper
           try
           {
             quantity = Convert.ToInt32(Console.ReadLine());
+            if (quantity < 1)
+            {
+              throw new InvalidOperationException();
+            }
           }
           catch (Exception e)
           {
@@ -71,6 +77,7 @@ namespace CartValueEavaluator.Helper
         }
         else
         {
+          Console.WriteLine("Invalid quantity!");
           break;
         }
         if (quantity > 0)
