@@ -8,6 +8,7 @@
     ".NETCoreApp,Version=v3.1": {
       "UnitTest.CartValueEvaluator/1.0.0": {
         "dependencies": {
+          "CartValueEavaluator": "1.0.0",
           "MSTest.TestAdapter": "2.0.0",
           "MSTest.TestFramework": "2.0.0",
           "Microsoft.NET.Test.Sdk": "16.2.0",
@@ -1323,6 +1324,11 @@
             "fileVersion": "1.0.24212.1"
           }
         }
+      },
+      "CartValueEavaluator/1.0.0": {
+        "runtime": {
+          "CartValueEavaluator.dll": {}
+        }
       }
     }
   },
@@ -2066,6 +2072,11 @@
       "sha512": "sha512-gQQaCNO5FYxD37SNQvE+yZUNfCt/Y+FgCnead3hu37RsUiwy2cxqRDWPv+Ee+6DlOeV47xaSYYZ6GQW4EhoEXQ==",
       "path": "system.xml.xpath.xmldocument/4.0.1",
       "hashPath": "system.xml.xpath.xmldocument.4.0.1.nupkg.sha512"
+    },
+    "CartValueEavaluator/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
     }
   }
 }

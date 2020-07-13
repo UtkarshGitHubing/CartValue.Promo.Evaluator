@@ -90,3 +90,6 @@ D:\Learning\Apps\Promo\CartValueEavaluator\UnitTest.CartValueEvaluator\obj\Debug
 D:\Learning\Apps\Promo\CartValueEavaluator\UnitTest.CartValueEvaluator\obj\Debug\netcoreapp3.1\UnitTest.CartValueEvaluator.csproj.CopyComplete
 D:\Learning\Apps\Promo\CartValueEavaluator\UnitTest.CartValueEvaluator\obj\Debug\netcoreapp3.1\UnitTest.CartValueEvaluator.dll
 D:\Learning\Apps\Promo\CartValueEavaluator\UnitTest.CartValueEvaluator\obj\Debug\netcoreapp3.1\UnitTest.CartValueEvaluator.pdb
+D:\Learning\Apps\Promo\CartValueEavaluator\UnitTest.CartValueEvaluator\bin\Debug\netcoreapp3.1\CartValueEavaluator.exe
+D:\Learning\Apps\Promo\CartValueEavaluator\UnitTest.CartValueEvaluator\bin\Debug\netcoreapp3.1\CartValueEavaluator.dll
+D:\Learning\Apps\Promo\CartValueEavaluator\UnitTest.CartValueEvaluator\bin\Debug\netcoreapp3.1\CartValueEavaluator.pdb

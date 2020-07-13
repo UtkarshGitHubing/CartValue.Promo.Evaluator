@@ -2029,6 +2029,16 @@
         "runtime": {
           "lib/netstandard1.3/System.Xml.XPath.XmlDocument.dll": {}
         }
+      },
+      "CartValueEavaluator/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "compile": {
+          "bin/placeholder/CartValueEavaluator.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/CartValueEavaluator.dll": {}
+        }
       }
     }
   },
@@ -6785,10 +6795,16 @@
         "system.xml.xpath.xmldocument.4.0.1.nupkg.sha512",
         "system.xml.xpath.xmldocument.nuspec"
       ]
+    },
+    "CartValueEavaluator/1.0.0": {
+      "type": "project",
+      "path": "../CartValueEavaluator/CartValueEavaluator.csproj",
+      "msbuildProject": "../CartValueEavaluator/CartValueEavaluator.csproj"
     }
   },
   "projectFileDependencyGroups": {
     ".NETCoreApp,Version=v3.1": [
+      "CartValueEavaluator >= 1.0.0",
       "MSTest.TestAdapter >= 2.0.0",
       "MSTest.TestFramework >= 2.0.0",
       "Microsoft.NET.Test.Sdk >= 16.2.0",
@@ -6825,7 +6841,11 @@
       },
       "frameworks": {
         "netcoreapp3.1": {
-          "projectReferences": {}
+          "projectReferences": {
+            "D:\\Learning\\Apps\\Promo\\CartValueEavaluator\\CartValueEavaluator\\CartValueEavaluator.csproj": {
+              "projectPath": "D:\\Learning\\Apps\\Promo\\CartValueEavaluator\\CartValueEavaluator\\CartValueEavaluator.csproj"
+            }
+          }
         }
       },
       "warningProperties": {
